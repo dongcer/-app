@@ -1,5 +1,4 @@
-// const ip = "http://127.0.0.1:8360";
-const ip = "http://47.94.96.131:8360";
+const ip = "http://127.0.0.1:8360";
 const APPID = '1256990025';
 const KEY = 'gCOTxdkCHUMdLTWPSMeM';
 const getApiConfig = () => {
